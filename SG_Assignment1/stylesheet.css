@@ -1,0 +1,27 @@
+body{
+	background-color: white;
+}
+
+.container1 {
+    height: 650px;
+    position: relative 
+}
+.container1 img {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+
+#favtext{
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+    font-family: "Book Antiqua", Palatino, serif;
+    color: white;
+}
