@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.47541,33.677305]},"properties":{"cartodb_id":1,"id":1,"lat":33.6773,"lon":-106.475,"offseta":3048,"offsetb":0,"fireballra":775,"fireballh":10000,"ballrmeter":236.22,"ballhmeter":3048}}]}
